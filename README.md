@@ -47,12 +47,20 @@ Output program menampilkan data secara hierarkis. Pertama, data pemilik dan beng
 
 # Screenshot
 
+**CPP**
+
 <div style = "text-align: center;">
     <img src = "cpp/screenshot/cpp.png" width = "400px">
 </div>
+
+**Java**
+
 <div style = "text-align: center;">
     <img src = "java/screenshot/java.png" width = "400px">
 </div>
+
+**Python**
+
 <div style = "text-align: center;">
     <img src = "python/screenshot/python.png" width = "400px">
 </div>
